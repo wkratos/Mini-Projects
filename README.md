@@ -8,6 +8,12 @@ A simple number guessing game written in C.
 The program picks a random number between **1** and **100**, and the player tries to guess it.  
 After each guess, the program tells the player if their guess was **too high**, **too low**, or **correct**.
 
+## Quick Overview
+
+- **Built with:** C
+- **Focus:** Terminal-based number guessing game using loops, conditions, and input handling.
+- **What I learned:** Basic program flow, user input, random number logic, and simple terminal interaction.
+
 ---
 
 ## ✨ Features
