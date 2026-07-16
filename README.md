@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mini-Projects Collection 🚀
+# Mini-Projects Collection
 
 A collection of small C programming projects showcasing fundamental concepts like random number generation, data structures, and terminal animations.
 </div>
