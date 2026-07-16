@@ -50,13 +50,16 @@ A terminal animation that creates a flowing wave effect with text using sine wav
 1. Navigate to any project folder
 2. Follow the build instructions in that project's README
 3. Run the compiled program
+<div align="center">
 
 ## 📝 License
 All projects are licensed under the MIT License. See individual LICENSE files for details.
 
-<div align="center">
 
 ## 👨‍💻 Author
+
+```
 wkratos (2025)
+```
 
 </div>
