@@ -55,6 +55,8 @@ A terminal animation that creates a flowing wave effect with text using sine wav
 All projects are licensed under the MIT License. See individual LICENSE files for details.
 
 <div align="center">
+
 ## 👨‍💻 Author
 wkratos (2025)
+
 </div>
