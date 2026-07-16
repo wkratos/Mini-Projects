@@ -1,6 +1,11 @@
+<div align="center">
+
 # Mini-Projects Collection 🚀
 
 A collection of small C programming projects showcasing fundamental concepts like random number generation, data structures, and terminal animations.
+</div>
+
+---
 
 ## 📂 Projects
 
@@ -49,5 +54,7 @@ A terminal animation that creates a flowing wave effect with text using sine wav
 ## 📝 License
 All projects are licensed under the MIT License. See individual LICENSE files for details.
 
+<div align="center">
 ## 👨‍💻 Author
 wkratos (2025)
+</div>
