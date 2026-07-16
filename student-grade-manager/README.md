@@ -1,46 +1,48 @@
-# Student Grade Manager
+# Student Grade Manager 📚
 
-A simple C program to manage students and their grades.  
-You can add students, assign grades, list all students, and calculate averages.  
-Built as a practice project for handling structs, arrays, and basic I/O in C.
+A simple C program to manage students and their grades. You can add students, assign grades, list all students, and calculate averages. Built as a practice project for handling structs, arrays, and basic I/O in C.
 
----
+## ✨ Features
+- **Add Students**: Create new student records (up to 100 students, unique names)
+- **List Students**: View all registered students
+- **Add Grades**: Assign grades (0–100) to students (up to 20 grades per student)
+- **Calculate Averages**: View a student's average grade
+- **Interactive Menu**: Text-based interface for easy navigation
 
-## Features
-- Add new students (unique names, up to 100).
-- List all students.
-- Add grades (0–100) for a student (up to 20 per student).
-- Show a student's average grade.
-- Input handling with a simple text-based menu.
+## 📋 Requirements
+- C compiler (gcc, clang)
+- Make utility
+- Standard C library
 
----
+## 📁 Project Structure
+```
+Program/
+├── grade_manager.h  # Header file (structs + function prototypes)
+├── student.c        # Student functions (add, list, find, grades, average)
+├── io.c             # Utility functions (strlen, putstr, putnbr, readline, atoi, etc.)
+├── main.c           # Program entry point + menu loop
+└── Makefile         # Build automation
+```
 
-## Project Structure
-├── grade_manager.h # Header file       (structs + function prototypes)
-├── student.c # Student-relatedfunctions       (add/ list/find/grades/average)
-├── io.c # Utility functions            (strlen, putstr, putnbr, readline, atoi, etc.)
-├── main.c # Program entry point + menu
-└── Makefile # Build automation
-
-
----
-
-## Build & Run
+## 🛠️ Build & Run
 
 ### Compile
-```bash```
+```bash
 make
+```
 
 ### Run
-```bash```
+```bash
 ./grade_manager
+```
 
 ### Clean (remove .o files & binary)
-```bash```
+```bash
 make clean
+```
 
-## Example Usage
-
+## 💡 Example Usage
+```
 === Student Grade Manager ===
 1) Add student
 2) List students
@@ -48,6 +50,17 @@ make clean
 4) Show student average
 0) Quit
 > 1
+Student name: Alice
+> 3
+Student name: Alice
+Grade: 95
+> 4
+Student name: Alice
+Average: 95.00
+```
+
+## 📝 License
+MIT License - See README.md in parent directory for details
 Student name: Alex
 Added.
 
