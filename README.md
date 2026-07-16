@@ -58,8 +58,8 @@ All projects are licensed under the MIT License. See individual LICENSE files fo
 
 ## 👨‍💻 Author
 
-```
+
 wkratos (2025)
-```
+
 
 </div>
